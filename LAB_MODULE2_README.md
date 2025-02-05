@@ -30,7 +30,7 @@ We use a customer churn dataset (`Churn_Modelling.csv`) containing the following
 
 ---
 
-## 📌 Model 1: Baseline ANN (No Regularization)
+## 📌 1: Baseline ANN (No Regularization)
 This simple ANN contains:
 - **1 Input Layer**
 - **1 Output Layer**
@@ -53,7 +53,7 @@ model = Sequential([
 
 ---
 
-## 📌 Model 2: Regularized ANN (L2, Dropout & BatchNorm)
+## 📌 : Regularized ANN (L2, Dropout & BatchNorm)
 This model is improved with:
 - **L2 Regularization (`l2(0.01)`)** to reduce overfitting  
 - **Dropout (`Dropout(0.3)`)** to randomly deactivate neurons  
