@@ -4,7 +4,7 @@
 This repository contains two implementations of an **Artificial Neural Network (ANN)** for predicting customer churn.
 
 ## 📌 Overview
-Customer churn prediction is an essential task for businesses to retain customers and reduce revenue loss. We implement **two versions of an ANN** using TensorFlow/Keras:
+Customer churn prediction is an essential task for businesses to retain customers and reduce revenue loss. I have implement **two versions of an ANN** using TensorFlow/Keras:
 
 1. **Baseline Model (Simple ANN)**
 2. **Regularized Model (with L2 Regularization, Dropout & Batch Normalization)**
