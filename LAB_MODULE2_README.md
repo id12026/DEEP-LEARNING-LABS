@@ -1,4 +1,4 @@
-# LAB_MODULE 2
+# LAB2_MODULE 2
 # Customer Churn Prediction using ANN
 
 This repository contains two implementations of an **Artificial Neural Network (ANN)** for predicting customer churn.
